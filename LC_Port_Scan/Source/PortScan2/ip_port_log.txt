@@ -1,0 +1,120 @@
+scan date:2022-11-21 11:28:48.317765
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 11:28:49.841949
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 11:28:51.371470
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
+scan date:2022-11-21 11:34:03.784616
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 11:34:05.317262
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 11:34:06.852650
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
+scan date:2022-11-21 12:57:07.866824
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 12:57:09.400110
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 12:57:10.923722
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
+scan date:2022-11-21 14:39:42.017830
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 14:39:43.546339
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 14:39:45.075516
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
+scan date:2022-11-21 16:06:40.422102
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 16:06:41.939180
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 16:06:43.475624
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
+scan date:2022-11-21 17:02:52.982308
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 17:02:54.513686
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 17:02:56.046459
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
+scan date:2022-11-21 17:15:07.829775
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 17:15:09.365917
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 17:15:10.894234
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
+scan date:2022-11-21 17:44:02.897466
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 17:44:04.427411
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 17:44:05.959283
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
+scan date:2022-11-21 17:46:28.860282
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 17:46:30.397637
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 17:46:31.901715
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
+scan date:2022-11-21 18:02:07.265696
+Port Number 443 is closed on 192.168.10.11!
+Port Number 443 is closed on 192.168.10.13!
+Port Number 443 is closed on 192.168.10.15!
+scan date:2022-11-21 18:02:08.794765
+Port Number 69 is closed on 192.168.10.11!
+Port Number 69 is closed on 192.168.10.13!
+Port Number 69 is closed on 192.168.10.15!
+scan date:2022-11-21 18:02:10.328059
+Port Number 80 is closed on 192.168.10.11!
+Port Number 80 is closed on 192.168.10.13!
+Port Number 80 is closed on 192.168.10.15!
