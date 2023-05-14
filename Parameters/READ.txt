@@ -1,0 +1,1 @@
+Ports.txt and ip_port_log.txt are located in the source folder under port_scan1 and port_scan2
